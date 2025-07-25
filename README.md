@@ -1,4 +1,4 @@
-## 🧑‍💼 Employee Management System — React + Vite + Tailwind CSS
+## 🧑‍💼 StaffSync — React + Vite + Tailwind CSS
 A clean and modern Employee Management System built using React JS, powered by Vite for fast performance, and styled with Tailwind CSS. All data is stored using the browser’s localStorage, so no backend is needed.
 
 ## 🚀 Features
